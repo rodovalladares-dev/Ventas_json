@@ -3,45 +3,30 @@
         "id": "1",
         "nombre": "Catan",
         "categoria": "Estrategia/Familiar",
-        "precio": 1200,
-        "unidades_vendidas": 12500,
-        "ingreso_total": 624875,
-        "mejor_mes_venta": "Diciembre"
+        "precio": 1200
     },
     {
         "id": "2",
         "nombre": "Dixit",
         "categoria": "Familiar/Creatividad",
-        "precio": 4500,
-        "unidades_vendidas": 8900,
-        "ingreso_total": 311411,
-        "mejor_mes_venta": "Noviembre"
+        "precio": 4500
     },
     {
         "id": "3",
         "nombre": "Aventureros al Tren (Ticket to Ride)",
         "categoria": "Estrategia/Familiar",
-        "precio": 6200,
-        "unidades_vendidas": 9500,
-        "ingreso_total": 569905,
-        "mejor_mes_venta": "Diciembre"
+        "precio": 6200
     },
     {
         "id": "4",
         "nombre": "Exploding Kittens",
         "categoria": "Cartas/Fiesta",
-        "precio": 7500,
-        "unidades_vendidas": 15200,
-        "ingreso_total": 303848,
-        "mejor_mes_venta": "Julio"
+        "precio": 7500
     },
     {
         "id": "5",
         "nombre": "Twilight Imperium (4ta Edición)",
         "categoria": "Estrategia Pesada/Ciencia Ficción",
-        "precio": 9990,
-        "unidades_vendidas": 1200,
-        "ingreso_total": 215988,
-        "mejor_mes_venta": "Octubre"
+        "precio": 9990
     }
 ]
