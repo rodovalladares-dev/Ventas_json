@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "nombre": "Catan",
+        "titulo": "Catan",
         "imagen": "https://devirinvestments.s3.eu-west-1.amazonaws.com/img/catalog/product/8436589624559-1200-face3d.jpg",
         "categoria": "Estrategia/Familiar",
         "precio": 1200,
@@ -9,7 +9,7 @@
     },
     {
         "id": "2",
-        "nombre": "Dixit",
+        "titulo": "Dixit",
         "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Familiar/Creatividad",
         "precio": 4500,
@@ -17,7 +17,7 @@
     },
     {
         "id": "3",
-        "nombre": "Aventureros al Tren (Ticket to Ride)",
+        "titulo": "Aventureros al Tren (Ticket to Ride)",
         "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Estrategia/Familiar",
         "precio": 6200,
@@ -25,7 +25,7 @@
     },
     {
         "id": "4",
-        "nombre": "Exploding Kittens",
+        "titulo": "Exploding Kittens",
         "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Cartas/Fiesta",
         "precio": 7500,
@@ -33,7 +33,7 @@
     },
     {
         "id": "5",
-        "nombre": "Twilight Imperium (4ta Edición)",
+        "titulo": "Twilight Imperium (4ta Edición)",
         "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Estrategia Pesada/Ciencia Ficción",
         "precio": 9990,
