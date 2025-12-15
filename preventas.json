@@ -2,10 +2,10 @@
     {
         "id": "1",
         "nombre": "Catan",
-        "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
+        "imagen": "https://devirinvestments.s3.eu-west-1.amazonaws.com/img/catalog/product/8436589624559-1200-face3d.jpg,
         "categoria": "Estrategia/Familiar",
         "precio": 1200,
-        "descripcion": "Desc1"
+        "fechaLanzamiento": "2026-09-12"
     },
     {
         "id": "2",
@@ -13,7 +13,7 @@
         "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Familiar/Creatividad",
         "precio": 4500,
-        "descripcion": "Desc1"
+        "fechaLanzamiento": "2026-09-12"
     },
     {
         "id": "3",
@@ -21,7 +21,7 @@
         "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Estrategia/Familiar",
         "precio": 6200,
-        "descripcion": "Desc1"
+        "fechaLanzamiento": "2026-09-12"
     },
     {
         "id": "4",
@@ -29,7 +29,7 @@
         "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Cartas/Fiesta",
         "precio": 7500,
-        "descripcion": "Desc1"
+        "fechaLanzamiento": "2026-09-12"
     },
     {
         "id": "5",
@@ -37,6 +37,6 @@
         "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Estrategia Pesada/Ciencia Ficción",
         "precio": 9990,
-        "descripcion": "Desc1"
+        "fechaLanzamiento": "2026-09-12"
     }
 ]
