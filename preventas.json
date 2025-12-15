@@ -2,6 +2,7 @@
     {
         "id": "1",
         "nombre": "Catan",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Estrategia/Familiar",
         "precio": 1200,
         "descripcion": "Desc1"
@@ -9,6 +10,7 @@
     {
         "id": "2",
         "nombre": "Dixit",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Familiar/Creatividad",
         "precio": 4500,
         "descripcion": "Desc1"
@@ -16,6 +18,7 @@
     {
         "id": "3",
         "nombre": "Aventureros al Tren (Ticket to Ride)",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Estrategia/Familiar",
         "precio": 6200,
         "descripcion": "Desc1"
@@ -23,6 +26,7 @@
     {
         "id": "4",
         "nombre": "Exploding Kittens",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Cartas/Fiesta",
         "precio": 7500,
         "descripcion": "Desc1"
@@ -30,6 +34,7 @@
     {
         "id": "5",
         "nombre": "Twilight Imperium (4ta Edición)",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Elden_Ring_DLC.jpg",
         "categoria": "Estrategia Pesada/Ciencia Ficción",
         "precio": 9990,
         "descripcion": "Desc1"
