@@ -3,30 +3,35 @@
         "id": "1",
         "nombre": "Catan",
         "categoria": "Estrategia/Familiar",
-        "precio": 1200
+        "precio": 1200,
+        "descripcion": "Desc1"
     },
     {
         "id": "2",
         "nombre": "Dixit",
         "categoria": "Familiar/Creatividad",
-        "precio": 4500
+        "precio": 4500,
+        "descripcion": "Desc1"
     },
     {
         "id": "3",
         "nombre": "Aventureros al Tren (Ticket to Ride)",
         "categoria": "Estrategia/Familiar",
-        "precio": 6200
+        "precio": 6200,
+        "descripcion": "Desc1"
     },
     {
         "id": "4",
         "nombre": "Exploding Kittens",
         "categoria": "Cartas/Fiesta",
-        "precio": 7500
+        "precio": 7500,
+        "descripcion": "Desc1"
     },
     {
         "id": "5",
         "nombre": "Twilight Imperium (4ta Edición)",
         "categoria": "Estrategia Pesada/Ciencia Ficción",
-        "precio": 9990
+        "precio": 9990,
+        "descripcion": "Desc1"
     }
 ]
